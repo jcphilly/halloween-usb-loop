@@ -4,7 +4,11 @@ A Roku developer channel that plays every video on a USB drive in an endless loo
 
 ## Downloads
 
-Get both files from the [latest release](../../releases/latest):
+Download both files (no GitHub account needed):
+
+- **[HalloweenUSBLoop.zip](https://github.com/jcphilly/halloween-usb-loop/raw/main/downloads/HalloweenUSBLoop.zip)**
+- **[01-usb-test.mp4](https://github.com/jcphilly/halloween-usb-loop/raw/main/downloads/01-usb-test.mp4)**
+
 
 | File | What it is | Where it goes |
 |---|---|---|
